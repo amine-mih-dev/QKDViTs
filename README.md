@@ -196,7 +196,7 @@ If you use this code, please cite the associated manuscript:
 ```bibtex
 @article{qkdt2026,
 	title   = {Knowledge-Distilled and Quantized Vision Transformers for Data-Efficient Tomato Disease Analysis},
-	<!-- author  = {<insert authors>}, -->
+	author  = {Ammar Chouchane, Mohammed El Amine Mihoubi, El Ouanas Belabbaci, Yassine Himeur, AbdelmalikOuamane, Ali Teta}
 	journal = {The Visual Computer},
 	year    = {2026},
 	<!-- doi     = {<insert doi>} -->
