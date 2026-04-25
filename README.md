@@ -11,9 +11,16 @@ It is prepared as a code-availability and reproducibility companion for journal 
 <!-- - Submission/revision ID: [insert manuscript ID] -->
 - Corresponding author: mihammed.mihoubi@univ-bejaia.dz
 
+## Repository and Archive Links
+
+- GitHub repository: https://github.com/amine-mih-dev/QKDViTs
+- Software release DOI (to be added after Zenodo/Figshare archive): <software_doi_link>
+- Dataset archive DOI(s) (to be added): <dataset_doi_links>
+
 ## Code Availability Statement
 
 All source code required to reproduce the reported computational workflow is provided in this repository.
+For journal-grade traceability, this repository should be linked to an immutable archived release (DOI).
 
 ## Repository Scope
 
@@ -57,9 +64,7 @@ Windows PowerShell:
 
 ```bash
 pip install -r requirements.txt
-```
-
-## Reproducibility Workflow
+```## Reproducibility Workflow
 
 The intended execution order is:
 
@@ -187,21 +192,27 @@ python src/models/model_arch.py --show-summary
 ## Data Availability
 
 This repository contains code and experiment orchestration.
-Dataset files are publically available.
+Dataset files are publicly available from their original sources.
+
 
 ## Citation
 
 If you use this code, please cite the associated manuscript:
 
-<!-- ```bibtex
+```bibtex
 @article{qkdt2026,
-	title   = {<insert paper title>},
-	author  = {<insert authors>},
-	journal = {<insert journal>},
+	title   = {Knowledge-Distilled and Quantized Vision Transformers for Data-Efficient Tomato Disease Analysis},
+	<!-- author  = {<insert authors>}, -->
+	journal = {The Visual Computer},
 	year    = {2026},
-	doi     = {<insert doi>}
+	<!-- doi     = {<insert doi>} -->
 }
-``` -->
+```
+
+### GitHub Description Citation Line
+
+Official code and reproducibility package for "Knowledge-Distilled and Quantized Vision Transformers for Data-Efficient Tomato Disease Analysis" (The Visual Computer).
+
 
 
 ## Contact
