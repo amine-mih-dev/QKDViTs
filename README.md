@@ -3,6 +3,7 @@
 This repository contains the implementation used for model training, knowledge distillation, quantization, and evaluation in our plant disease image classification study.
 
 It is prepared as a code-availability and reproducibility companion for journal editorial review and public GitHub release.
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19765766.svg)](https://doi.org/10.5281/zenodo.19765766)
 
 ## Manuscript Information
 
