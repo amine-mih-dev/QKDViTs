@@ -65,12 +65,12 @@ Windows PowerShell:
 ```
 
 
-
 ### 2) Install dependencies
 
 ```bash
 pip install -r requirements.txt
-```## Reproducibility Workflow
+```
+## Reproducibility Workflow
 
 The intended execution order is:
 
