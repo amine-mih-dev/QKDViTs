@@ -1,0 +1,51 @@
+# Keep repository code-only by default.
+*
+
+# Preserve repository metadata and documentation.
+!.gitignore
+!README.md
+!report/README.md
+!requirements.txt
+
+# Keep source code.
+!src/
+!src/**
+!report/
+!report/**
+!utils/
+!utils/**
+
+# Keep Python and text-based config/docs anywhere.
+!**/*.py
+!**/*.md
+!**/*.txt
+!**/*.yml
+!**/*.yaml
+!**/*.json
+
+# Exclude generated/large artifacts explicitly.
+data/
+checkpoints/
+logs/
+results/
+qres/
+aucs/
+final_results/
+visualizations/
+**/output/
+**/outputs/
+
+# Exclude model weights and binary artifacts.
+*.pt
+*.pth
+*.ckpt
+*.pkl
+*.pickle
+*.npy
+*.npz
+*.onnx
+
+# Exclude notebook checkpoints and temp folders.
+.ipynb_checkpoints/
+.tmp/
+.tools/
