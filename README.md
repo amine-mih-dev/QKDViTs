@@ -11,16 +11,10 @@ It is prepared as a code-availability and reproducibility companion for journal 
 <!-- - Submission/revision ID: [insert manuscript ID] -->
 - Corresponding author: mihammed.mihoubi@univ-bejaia.dz
 
-## Repository and Archive Links
-
-- GitHub repository: https://github.com/amine-mih-dev/QKDViTs
-- Software release DOI (to be added after Zenodo/Figshare archive): <software_doi_link>
-- Dataset archive DOI(s) (to be added): <dataset_doi_links>
 
 ## Code Availability Statement
 
 All source code required to reproduce the reported computational workflow is provided in this repository.
-For journal-grade traceability, this repository should be linked to an immutable archived release (DOI).
 
 ## Repository Scope
 
