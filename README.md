@@ -4,17 +4,17 @@ This repository contains the implementation used for model training, knowledge d
 
 It is prepared as a code-availability and reproducibility companion for journal editorial review and public GitHub release.
 
-Code:
+Zenodo Reposotory:
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19765766.svg)](https://doi.org/10.5281/zenodo.19765766)
+[![arXiv](https://img.shields.io/badge/DOI-0.5281/zenodo.19765766-purple)](https://doi.org/10.5281/zenodo.19765766)
 
 Datasets:
 
-ZPDD: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19767288.svg)](https://doi.org/10.5281/zenodo.19767288)
+ZPDD: [![arXiv](https://img.shields.io/badge/DOI-0.5281/zenodo.19767288-green)](https://doi.org/10.5281/zenodo.19767288)
 
-PlantVillage: [![arXiv]( https://img.shields.io/badge/DOI-abs/1511.08060-blue)](https://arxiv.org/abs/1511.08060)
+PlantVillage: [![arXiv]( https://img.shields.io/badge/DOI-abs/1511.08060-green)](https://arxiv.org/abs/1511.08060)
 
-Taiwan: [![arXiv]( https://img.shields.io/badge/DOI-10.1016/j.dib.2025.111520-blue)](https://doi.org/10.1016/j.dib.2025.111520)
+Taiwan: [![arXiv]( https://img.shields.io/badge/DOI-10.1016/j.dib.2025.111520-green)](https://doi.org/10.1016/j.dib.2025.111520)
 
 ## Manuscript Information
 
