@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article and this software record."
+title: "QKDViTs: Knowledge-Distilled and Quantized Vision Transformers for Data-Efficient Tomato Disease Analysis"
+version: "1.0.0"
+date-released: 2026-04-25
+type: software
+authors:
+  - family-names: "Mihoubi"
+    given-names: "Mohammed"
+    email: "mohammed.mihoubi@univ-bejaia.dz"
+repository-code: "https://github.com/amine-mih-dev/QKDViTs"
+url: "https://github.com/amine-mih-dev/QKDViTs"
+identifiers:
+  - type: doi
+    # value: "<software_doi>"
+preferred-citation:
+  type: article
+  title: "Knowledge-Distilled and Quantized Vision Transformers for Data-Efficient Tomato Disease Analysis"
+  journal: "The Visual Computer"
+  year: 2026
+  authors:
+    - family-names: "Mihoubi"
+      given-names: "Mohammed"
+  # doi: "<article_doi>"
