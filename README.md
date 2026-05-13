@@ -213,15 +213,7 @@ Dataset files are publicly available from their original sources.
 
 If you use this code, please cite the associated manuscript:
 
-```bibtex
-@article{qkdt2026,
-	title   = {Lightweight Knowledge-Distilled and Quantized Vision Transformers for Sustainable Plant Disease Detection},
-	author  = {Ammar Chouchane, Mohammed El Amine Mihoubi, El Ouanas Belabbaci, Yassine Himeur, AbdelmalikOuamane, Ali Teta}
-	journal = {},
-	year    = {2026},
-	<!-- doi     = {<insert doi>} -->
-}
-```
+
 
 ### GitHub Description Citation Line
 
