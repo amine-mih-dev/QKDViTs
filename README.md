@@ -1,8 +1,16 @@
 # QKDT: Code Repository for Journal Reproducibility
 
 This repository contains the implementation used for model training, knowledge distillation, quantization, and evaluation in our plant disease image classification study.
-
 It is prepared as a code-availability and reproducibility companion for journal editorial review and public GitHub release.
+
+## Lightweight Knowledge-Distilled and Quantized Vision Transformers for Sustainable Plant Disease Detection
+### Abstract
+<div align="justify">
+Tomato plants are highly susceptible to various diseases that severely affect both yield and quality. Early and accurate diagnosis is therefore critical to ensuring sustainable agricultural production. Deep learning models, particularly Convolutional Neural Networks (CNNs) and Vision Transformers (ViTs), have shown remarkable success in plant disease classification. However, their high computational complexity hinders deployment on resource-limited platforms such as edge devices and farm-based systems. To overcome this limitation, we propose an efficient tomato disease detection framework that combines knowledge distillation (KD) with post-training dynamic quantization. In this framework, high-capacity CNNs; namely ResNet-101, AlexNet, and VGG19; serve as teacher models to transfer knowledge to lightweight student ViTs through a DeiT-inspired distillation strategy. Subsequently, quantization is applied to further compress the distilled models, minimizing memory usage and inference latency while preserving classification performance. Experiments conducted on three benchmark datasets demonstrate that the proposed Distilled Quantized Vision Transformers (QViTs) achieve competitive accuracy with substantial reductions in model size and computational cost. These findings highlight the potential of the proposed framework for real-time, efficient, and scalable plant disease monitoring in precision agriculture. The custom code and simulation scripts supporting the findings of this study are openly available in the QKDViTs repository on GitHub https://github.com/amine-mih-dev/QKDViTs. The datasets used in this research are publicly available and can be accessed via the provided repository.
+</div>
+
+
+
 
 Zenodo Reposotory:
 
@@ -18,8 +26,8 @@ Taiwan: [![arXiv]( https://img.shields.io/badge/DOI-10.1016/j.dib.2025.111520-gr
 
 ## Manuscript Information
 
-- Manuscript title: Knowledge-Distilled and Quantized Vision Transformers for Data-Efficient Tomato Disease Analysis
-- Journal: The Visual Computer
+- Manuscript title: Lightweight Knowledge-Distilled and Quantized Vision Transformers for Sustainable Plant Disease Detection
+- Journal: 
 <!-- - Submission/revision ID: [insert manuscript ID] -->
 - Corresponding author: mihammed.mihoubi@univ-bejaia.dz
 
@@ -207,9 +215,9 @@ If you use this code, please cite the associated manuscript:
 
 ```bibtex
 @article{qkdt2026,
-	title   = {Knowledge-Distilled and Quantized Vision Transformers for Data-Efficient Tomato Disease Analysis},
+	title   = {Lightweight Knowledge-Distilled and Quantized Vision Transformers for Sustainable Plant Disease Detection},
 	author  = {Ammar Chouchane, Mohammed El Amine Mihoubi, El Ouanas Belabbaci, Yassine Himeur, AbdelmalikOuamane, Ali Teta}
-	journal = {The Visual Computer},
+	journal = {},
 	year    = {2026},
 	<!-- doi     = {<insert doi>} -->
 }
@@ -217,7 +225,7 @@ If you use this code, please cite the associated manuscript:
 
 ### GitHub Description Citation Line
 
-Official code and reproducibility package for "Knowledge-Distilled and Quantized Vision Transformers for Data-Efficient Tomato Disease Analysis" (The Visual Computer).
+Official code and reproducibility package for "Lightweight Knowledge-Distilled and Quantized Vision Transformers for Sustainable Plant Disease Detection".
 
 
 
